@@ -1,0 +1,6 @@
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/Timothy-LiuXuefeng/DSPFFT.git
+[submodule "lab2"]
+	path = lab2
+	url = ./lab2
